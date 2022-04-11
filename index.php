@@ -2,6 +2,17 @@
 include('includes/function.php')
 ?>
 
+<!--
+       Name: Vuong Dang
+       Date: 04/11/2022
+       URL:https://vdang.greenriverdev.com/328/cupcakes/
+       Description: In this assigment, I create a form for selecting flavors and a field for asking name of customers
+       After, the customers choose flavors and fill out the Name, then click submit you will receive a thank you form with your Name, and your chosen flavors with the Order Total of below.
+       If, customer did not select the flavors after submitting, you will get announcement for Please select the flavor you want.
+
+-->
+
+
 <!doctype html>
 <html lang="en">
 <head>
