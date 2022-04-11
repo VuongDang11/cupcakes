@@ -1,0 +1,27 @@
+#main {
+    background-color: #ffffff;
+    margin: 0 auto 3em auto;
+    padding-bottom: 4em;
+}
+
+h2 {
+    padding-top: 0.1em;
+}
+
+.nameForm {
+    padding-bottom: 10px;
+}
+
+#cupcakeFlavors {
+    padding-bottom: 2em;
+}
+
+input[type=checkbox] {
+    vertical-align: middle;
+    position: relative;
+    bottom: 1px;
+}
+
+label {
+    display: block;
+}
