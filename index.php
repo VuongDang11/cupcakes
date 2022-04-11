@@ -53,7 +53,7 @@ include('includes/function.php')
         -->
         <div class="boxCupCake">
             <h3 for="cupcake">Cupcake Flavors</h3>
-            <label> <input  type="checkbox" value="The Grasshopper" name="flavors[]"> The Grasshopper1</label>
+            <label> <input  type="checkbox" value="The Grasshopper" name="flavors[]"> The Grasshopper</label>
             <label> <input  type="checkbox" value="Whiskey Maple Bacon" name="flavors[]"> Whiskey Maple Bacon </label>
             <label> <input  type="checkbox" value="Carrot Walnut" name="flavors[]"> Carrot Walnut </label>
             <label> <input  type="checkbox" value="Salted Caramel Cupcake" name="flavors[]"> Salted Caramel Cupcake </label>
