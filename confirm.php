@@ -67,7 +67,7 @@ foreach ($_POST['flavors'] as $flavor) {
     echo "<li>". $flavor . "</li>";
 }
 
-echo "<h4>" . "Order Total: " . $price . "$" ."</h4>";
+echo "<h4>" . "Order Total: " . "$" . $price  ."</h4>";
 
 
 
